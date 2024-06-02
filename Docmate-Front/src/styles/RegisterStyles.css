@@ -1,0 +1,16 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 24px;
+  }
+  
+  .register-form {
+    border: 1px solid gray;
+    padding: 30px;
+    font-size: 20px;
+  }
+  .btn btn-primary{
+    font-size: 24px;
+  }

@@ -1,0 +1,22 @@
+.full-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Make the container take up the full viewport height */
+    background-color: #f0f0f0; /* Set a background color for the page */
+  }
+  
+  .form-container {
+    background-color: #fff; /* Set a background color for the form container */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    width: 300px; /* Adjust the width as needed */
+    size: 0cap;
+    font-size: 20px;
+  }
+
+  .button-container {
+    text-align: center;
+    margin-top: 20px; /* Adjust the margin as needed to control vertical spacing */
+  }
