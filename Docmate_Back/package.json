@@ -8,7 +8,8 @@
     "start": "node server.js",
     "server": "nodemon server.js",
     "client": "npm start --prefix ./docmate ",
-    "dev": "concurrently \"npm run server\" \"npm run ./docmate/start\""
+    "dev": "concurrently \"npm run server\" \"npm run ./docmate/start\"",
+    "build":"npm i"
   },
   "keywords": [],
   "author": "",
